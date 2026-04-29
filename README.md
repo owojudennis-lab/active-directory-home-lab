@@ -77,4 +77,8 @@ A fully functional Active Directory environment was successfully deployed and is
 ## 🚀 Next Step
 This lab was extended into a detection lab using **Wazuh SIEM**:
 
-👉 See: `https://github.com/owojudennis-lab/active-directory-wazuh-monitoring`
+<a href="https://github.com/owojudennis-lab/active-directory-wazuh-monitoring" target="_blank">
+  <img src="https://img.shields.io/badge/See%20Project-Active%20Directory%20Wazuh%20Monitoring-blue?style=for-the-badge" />
+</a>
+
+
