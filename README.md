@@ -23,8 +23,9 @@ Subnet Mask: 255.255.255.0
 Gateway: 192.168.56.1
 DNS: 192.168.56.110
 
-📸 *[Insert Screenshot: ipconfig]*
 
+---
+<img src = "Setting static ip.png">
 ---
 
 ### 2. Active Directory Installation
@@ -34,8 +35,8 @@ DNS: 192.168.56.110
 Domain created:
 lab.local
 
-📸 *[Insert Screenshot: AD Installation]*
-
+---
+<img src = "Installing Active directory.png">
 ---
 
 ### 3. User Management
@@ -44,8 +45,10 @@ A test user account was created:
 - Username: `testuser`  
 - Location: `lab.local → Users`  
 
-📸 *[Insert Screenshot: User Creation]*
 
+
+---
+<img src = "Addding a user to in the Active Direectory.png">
 ---
 
 ## 🧠 Key Learning Points
